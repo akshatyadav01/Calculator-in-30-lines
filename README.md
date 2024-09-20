@@ -5,3 +5,5 @@ main logic
 1) we don't need separte functions to solve calculations for different functions we can use eval() function which will solve the expresion by converting it from a string to mathematical  expression.
 
 2) we use exec function to create variables and buttons at runtime by combining it with string formating.
+
+there are two codes available one without exec one with exec.
